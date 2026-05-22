@@ -1,0 +1,2 @@
+# amagi
+Amagi Linux
