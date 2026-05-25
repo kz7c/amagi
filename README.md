@@ -1,2 +1,1 @@
-# amagi
-Amagi Linux
+# Amagi Linux
